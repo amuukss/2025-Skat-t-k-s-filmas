@@ -1,0 +1,1 @@
+// Content from website/script.js should be placed here
